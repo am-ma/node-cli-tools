@@ -1,0 +1,12 @@
+{
+    "name": "github-issues",
+    "version": "0.0.1",
+    "bin": {
+        "github-issues": "index.js"
+    },
+    "dependencies": {
+        "@octokit/rest": "^18.0.9",
+        "csv": "^5.3.2",
+        "dotenv": "^8.2.0"
+    }
+}
