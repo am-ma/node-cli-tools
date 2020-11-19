@@ -7,6 +7,7 @@ CSVを食わせるといい感じでissueを登録するCLIツール
 ```sh
 $ git clone {git url}
 $ cd /path/to/github-issues
+$ npm i
 $ npm link
 ```
 
