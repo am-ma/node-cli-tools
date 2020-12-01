@@ -15,7 +15,7 @@ $ npm link
 
 ### config
 
-`.env.example`をコピーしてご利用ください
+`.env.example`をコピー→`.env`にしてご利用ください
 
 ```env
 ACCESS_TOKEN={GitHub access token}
