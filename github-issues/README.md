@@ -13,6 +13,16 @@ $ npm link
 
 ## usage
 
+### config
+
+`.env.example`をコピーしてご利用ください
+
+```env
+ACCESS_TOKEN={GitHub access token}
+```
+
+### command
+
 ```sh
 $ github-issues /path/to/issues.csv organization-name repository-name
 ```
